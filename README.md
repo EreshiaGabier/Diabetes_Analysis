@@ -1,6 +1,6 @@
 <body>
   <h1>Diabetes</h1>
-   <p>Exploratory Data Anlyses and Machine Learning for a Diabetes dataset.</p>
+   <p>Exploratory Data Anlyses and Machine Learning on a Diabetes dataset.</p>
   <div id="media">
       <img src="https://cdn.pixabay.com/photo/2021/10/21/12/07/diabetes-6728917_1280.png" width="800" height="500"/>
        
